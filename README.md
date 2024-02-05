@@ -37,7 +37,7 @@ Install node-4.1.2 (Latest version that works with node-usb)
 or
 [64Bit](https://nodejs.org/dist/v4.1.2/node-v4.1.2-x64.msi)
 
-Use Zadig to (In tools folder) to install the USB driver
+Use [Zadig](https://zadig.akeo.ie) to (In tools folder) to install the USB driver
 
 1. Connect the ToyPad
 2. Launch Zadig
